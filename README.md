@@ -1,4 +1,4 @@
-# GxE-with-bayesian-process
+# GxE-bayesian-estimation
 This is a project on improving the GxE evaluation method by applying bayesian estimation to the original model.
 
 ## Introduction
