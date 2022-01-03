@@ -7,7 +7,7 @@ The gene-environment interaction (GxE) is a common effect that alters normal gen
 Here we reproduce the method and result of this article, and generate our own simulation data to evaluate the efficacy of the method. Then we improved the method by applying bayesian estimation, Gaussian process, and Metropolis-Hasting Partially Collapsed Gibbs. The final comparison of two methods are also included.
 
 ## Files
-* [code repeat](`./code repeat`) directory includes all method and figure generating codes to reproduce the result of the original article.
+* [code repeat]("./code repeat") directory includes all method and figure generating codes to reproduce the result of the original article.
 * [analysis](./analysis) directory includes the data simulation and analysis process to evaluate the method effiicacy.
 * [calculation](./calculation) directory includes the improved method and the comparison process. The two step Bayesian method is adopted from the [Single Index Model](./reference/zjuthesis.pdf) established by Sun (2020).
 
