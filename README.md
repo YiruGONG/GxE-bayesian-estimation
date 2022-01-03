@@ -1,5 +1,5 @@
 # GxE-with-bayesian-process
-This is a project on improving the GxE evaluation method by applying bayesian process to the original model.
+This is a project on improving the GxE evaluation method by applying bayesian estimation to the original model.
 
 ## Introduction
 The gene-environment interaction (GxE) is a common effect that alters normal genetic function in human body. To identify the GxE effect in large sample size of genome-wide association studies (GWAS) data, an [article](https://www.nature.com/articles/s41467-020-15107-0) (Sulc, 2020) presented a maximum likelihood method to estimate the contribution of GxE to continuous traits taking into account all interacting environmental variables, without the need to measure any.
